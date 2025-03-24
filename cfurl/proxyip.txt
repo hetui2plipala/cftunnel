@@ -163,7 +163,7 @@
 144.24.169.81#Germany:Frankfurt am Main:ORACLE-BMC-31898
 52.29.224.33#Germany:Frankfurt am Main:AMAZON-02
 141.147.47.32#Germany:Frankfurt am Main:ORACLE-BMC-31898
-2a02:180:6:1::62e#Germany:Jena:ISPPRO-AS
+[2a02:180:6:1::62e]#Germany:Jena:ISPPRO-AS
 18.199.213.201#Germany:Frankfurt am Main:AMAZON-02
 141.147.61.116#Germany:Frankfurt am Main:ORACLE-BMC-31898
 193.122.1.0#Germany:Frankfurt am Main:ORACLE-BMC-31898
@@ -172,5 +172,5 @@
 129.151.254.48#France:Marseille:ORACLE-BMC-31898
 34.88.63.160#Finland:Lappeenranta:GOOGLE-CLOUD-PLATFORM
 140.238.158.238#Canada:Toronto:ORACLE-BMC-31898
-168.138.149.17#Brazil:São Paulo:ORACLE-BMC-31898
+168.138.149.17#Brazil:S?o Paulo:ORACLE-BMC-31898
 192.9.177.204#Australia:Sydney:ORACLE-BMC-31898
